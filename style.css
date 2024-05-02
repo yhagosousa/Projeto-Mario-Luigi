@@ -378,16 +378,19 @@ footer p{
     font-size: 12px;
 }
 
+/* CSS INDEX2 */
+
 .box-servicos{
     
    
     line-height: 20px;
     
-    margin-left: 30px;
+    margin-left: 5px;
     
 }
 
 .box-servicos p{
+    margin-left: 0px;
     font-size: 15px;
 }
 .box-servicos h2{
@@ -401,11 +404,15 @@ footer p{
     margin-left: 0;
     font-size: 15px;
     width: 250px;
+    
    
 }
+
 #header-index2{
-    margin-top: 50px;
+    padding-top: 50px;
 }
+
+
 
 
 
